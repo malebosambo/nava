@@ -12,6 +12,7 @@ function App() {
         <div className="product">
           <h3>Organic Okra</h3>
           <img src="./okra.jpg" alt="okra" />
+          <p>R50.00/kg</p>
         </div>  
       </div>
     </div>

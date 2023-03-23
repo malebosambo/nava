@@ -1,3 +1,12 @@
+img {
+  height: 600px;
+  width: 500px;
+}
+
 p {
   font-family: 'Courier New', Courier, monospace
+}
+
+.Product {
+  text-align: center;
 }
