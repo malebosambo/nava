@@ -1,4 +1,3 @@
-import Okra from './public/okra.jpg';
 import './App.css';
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
         </div>
         <div className="product">
           <h3>Organic Okra</h3>
-          <img src={Okra} alt="okra" />
+          <img src="./okra.jpg" alt="okra" />
         </div>  
       </div>
     </div>
