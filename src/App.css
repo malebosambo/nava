@@ -1,5 +1,5 @@
 body {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 img {
@@ -20,6 +20,14 @@ p {
   text-align: center;
 }
 
+.Harvest {
+  padding: 30px 10px;
+}
+
+.Health {
+  padding: 30px 10px;
+}
+
 .Header {
   padding: 20px 0;
   text-align: center;
@@ -30,5 +38,7 @@ p {
 }
 
 .Sustainable {
-  background-image: url(/public/woman-farmer.jpg);
+  background-image: url(/public/woman-farmer_1.jpg);
+  color: white;
+  padding: 40px 20px;
 }
