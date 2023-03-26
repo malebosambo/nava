@@ -15,7 +15,11 @@ function App() {
           <h3>Organic Okra</h3>
           <img src="./okra.jpg" alt="okra" />
           <p className="Bold">R50.00/kg</p>
-        </div>  
+        </div>
+        <div className="Sustainable">
+          <h2>Driven by sustainability</h2>
+          <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
+        </div>
       </div>
       <div className="Footer">
         <p>© 2023, Navah Harvest & Health</p>
