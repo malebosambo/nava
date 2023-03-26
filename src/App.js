@@ -23,6 +23,7 @@ function App() {
         <div className="Health">
           <h1>Healthy Living</h1>
           <p>Live a life worthwhile with fewer sick days.</p>
+        </div>
       </div>
       <div className="Footer">
         <p>© 2023, Navah Harvest & Health</p>
