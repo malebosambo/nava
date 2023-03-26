@@ -1,10 +1,26 @@
+body {
+  font-size: 16px;
+}
+
 img {
   height: 600px;
-  width: 500px;
+  width: 200px;
 }
 
 p {
   font-family: 'Courier New', Courier, monospace
+}
+
+.Bold {
+  font-weight: bold;
+}
+
+.Footer {
+  text-align: center;
+}
+
+.Header {
+  text-align: center;
 }
 
 .Product {
