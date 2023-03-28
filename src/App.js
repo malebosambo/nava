@@ -9,7 +9,7 @@ function App() {
       <div className="Main_Content">
         <div className="Harvest">
           <h1>Harvesting</h1>
-          <p>Navah grows and produces vegetables and herbs at its farm for the agriculture market.</p>
+          <p>Growing a variety of vegetables and herbs for the food market.</p>
         </div>
         <div className="Product">
           <h2>Organic Okra</h2>
@@ -19,15 +19,21 @@ function App() {
         <div className="Sustainable">
           <h2>Driven by sustainability</h2>
           <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
+          <a href="">Learn about SDGs</a>
         </div>
         <div className="Health">
           <h1>Healthy Living</h1>
-          <p>Live a life worthwhile with fewer sick days.</p>
+          <p>Use our health products to enjoy life more and worry less about visits to the doctor.</p>
+        </div>
+        <div className="Recipe">
+          <h1>Weekly Recipe</h1>
+          <h2>Matso-based Pizza</h2>
         </div>
         <div className="Contact">
           <h2>Contact Us</h2>
-          <p>Cell: +27670537445</p>
-          <p>E-mail: manyeletis@gmail.com</p>
+          <p>Cell: <a href="tel:+27670537445">+27670537445</a></p>
+          <p>E-mail: <a href="mailto:manyeletis@gmail.com">manyeletis@gmail.com</a></p>
+          <p>Address: 462 Cuba Crescent, Lulekani, 1392</p>
         </div>
       </div>
       <div className="Footer">
