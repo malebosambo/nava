@@ -19,7 +19,7 @@ function App() {
         <div className="Sustainable">
           <h2>Driven by sustainability</h2>
           <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
-          <a href="">Learn about SDGs</a>
+          <a href="https://www.wef.org/sdg">Learn about SDGs</a>
         </div>
         <div className="Health">
           <h1>Healthy Living</h1>
