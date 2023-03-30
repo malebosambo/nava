@@ -19,7 +19,7 @@ function App() {
         <div className="Sustainable">
           <h2>Driven by sustainability</h2>
           <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
-          <a href="https://www.wef.org/sdg">Learn about SDGs</a>
+          <a href="https://sdgs.un.org/goals">Learn about SDGs</a>
         </div>
         <div className="Health">
           <h1>Healthy Living</h1>
@@ -28,6 +28,8 @@ function App() {
         <div className="Recipe">
           <h1>Weekly Recipe</h1>
           <h2>Matso-based Pizza</h2>
+          <img src="./pizza.jpeg" alt="vegan pizza" />
+          <input type="submit" value="Get Recipe" />
         </div>
         <div className="Contact">
           <h2>Contact Us</h2>

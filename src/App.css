@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 body {
   font-size: 18px;
 }
@@ -16,7 +20,8 @@ p {
 }
 
 .Contact {
-  background-color: seagreen;
+  background-image: url(/public/contactus.jpg);
+  color: white;
   padding: 30px 10px;
 }
 
@@ -42,6 +47,10 @@ p {
 .Product {
   padding-bottom: 40px;
   text-align: center;
+}
+
+.Recipe {
+  padding: 0 10px 20px 10px;
 }
 
 .Sustainable {
