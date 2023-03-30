@@ -9,7 +9,7 @@ function App() {
       <div className="Main_Content">
         <div className="Harvest">
           <h1>Harvesting</h1>
-          <p>Growing a variety of vegetables and herbs for the food market.</p>
+          <p>We grow a great variety of vegetables and herbs for the kitchen and outdoor cooking.</p>
         </div>
         <div className="Product">
           <h2>Organic Okra</h2>
@@ -19,7 +19,7 @@ function App() {
         <div className="Sustainable">
           <h2>Driven by sustainability</h2>
           <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
-          <a href="https://sdgs.un.org/goals">Learn about SDGs</a>
+          <p><a href="https://sdgs.un.org/goals">Learn about SDGs</a></p>
         </div>
         <div className="Health">
           <h1>Healthy Living</h1>

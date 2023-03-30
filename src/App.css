@@ -4,7 +4,7 @@ a {
 }
 
 body {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 img {
@@ -23,7 +23,7 @@ p {
 .Contact {
   background-image: url(/public/contactus.jpg);
   color: white;
-  padding: 30px 10px;
+  padding: 40px 20px;
 }
 
 .Footer {
@@ -32,7 +32,9 @@ p {
 }
 
 .Harvest {
-  padding: 30px 10px;
+  background-image: url(./veggie-harvest_1.jpg);
+  color: white;
+  padding: 40px 20px;
 }
 
 .Health {
@@ -40,13 +42,15 @@ p {
 }
 
 .Header {
-  background-color: sandybrown;
+  font-family: serif;
   padding: 20px 0;
   text-align: center;
 }
 
 .Product {
-  padding-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 0 20px 40px 20px;
   text-align: center;
 }
 
