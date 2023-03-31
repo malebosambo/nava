@@ -17,6 +17,7 @@ input {
   border: none;
   border-radius: 25px;
   color: white;
+  font-family: Courier;
   font-size: 20px;
   margin-top: 20px;
   padding: 10px 30px;
@@ -34,7 +35,7 @@ p {
   background-color: sandybrown;
   border: 1px solid sandybrown;
   border-radius: 25px;
-  margin-top: 15px;
+  margin-top: 20px;
   padding: 10px;
   text-align: center;
 }
