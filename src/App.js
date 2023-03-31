@@ -27,6 +27,7 @@ function App() {
         </div>
         <div className="Recipe">
           <h1>Weekly Recipe</h1>
+          <hr />
           <h2>Matso-based Pizza</h2>
           <img src="./pizza.jpeg" alt="vegan pizza" />
           <input type="submit" value="Get Recipe" />

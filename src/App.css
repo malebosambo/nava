@@ -17,6 +17,7 @@ input {
   border: none;
   border-radius: 25px;
   color: white;
+  font-size: 20px;
   margin-top: 20px;
   padding: 10px 30px;
 }
@@ -33,6 +34,7 @@ p {
   background-color: sandybrown;
   border: 1px solid sandybrown;
   border-radius: 25px;
+  margin-top: 15px;
   padding: 10px;
   text-align: center;
 }
@@ -40,7 +42,7 @@ p {
 .Contact {
   background-image: url(/public/contactus.jpg);
   color: white;
-  padding: 40px 20px;
+  padding: 50px 20px;
 }
 
 .Footer {
@@ -71,7 +73,7 @@ p {
 }
 
 .Recipe {
-  padding: 20px 10px;
+  padding: 40px 10px;
   text-align: center;
 }
 
