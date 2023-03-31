@@ -32,7 +32,7 @@ p {
 }
 
 .Harvest {
-  background-image: url(/veggie-harvest_1.jpg);
+  background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
   padding: 40px 20px;
 }
