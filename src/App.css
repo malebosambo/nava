@@ -15,6 +15,7 @@ img {
 input {
   background-color: sandybrown;
   border: none;
+  border-radius: 25px;
   color: white;
   margin-top: 20px;
   padding: 10px 30px;
@@ -29,8 +30,11 @@ p {
 }
 
 .Border {
-  border: 1px solid white;
+  background-color: sandybrown;
+  border: 1px solid sandybrown;
   border-radius: 25px;
+  padding: 10px;
+  text-align: center;
 }
 
 .Contact {
