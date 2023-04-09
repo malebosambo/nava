@@ -64,7 +64,10 @@ p {
 
 .Header {
   display: flex;
-  padding: 10px;
+  width: 100%;
+}
+
+.Main_Content {
   width: 100%;
 }
 
