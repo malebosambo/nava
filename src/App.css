@@ -55,11 +55,15 @@ p {
   background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
   margin-top: -100px;
-  padding: 70px 20px;
+  padding: 90px 20px;
 }
 
 .Health {
   padding: 30px 10px;
+}
+
+.Health_Item {
+  display: flex;
 }
 
 .Health_Item img {
