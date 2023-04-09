@@ -39,9 +39,9 @@ function App() {
         </div>
         <div className="Contact">
           <h1>Contact Us</h1>
-          <p>Cell: <a href="tel:+27670537445">+27670537445</a></p>
-          <p>E-mail: <a href="mailto:manyeletis@gmail.com">manyeletis@gmail.com</a></p>
-          <p>Address: 462 Cuba Crescent, Lulekani, 1392</p>
+          <p>Cell:<br/> <a href="tel:+27670537445">+27670537445</a></p>
+          <p>E-mail:<br/> <a href="mailto:manyeletis@gmail.com">manyeletis@gmail.com</a></p>
+          <p>Address:<br/> 462 Cuba Crescent, Lulekani, 1392</p>
         </div>
       </div>
       <div className="Footer">

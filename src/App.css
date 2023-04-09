@@ -4,7 +4,7 @@ a {
 }
 
 body {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 img {
@@ -17,14 +17,14 @@ input {
   border: none;
   border-radius: 25px;
   color: white;
-  font-family: Courier;
   font-size: 20px;
   margin-top: 20px;
   padding: 10px 30px;
 }
 
 p {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 2px;
 }
 
 .Bold {
@@ -35,7 +35,6 @@ p {
   background-color: sandybrown;
   border: 1px solid sandybrown;
   border-radius: 25px;
-  margin-top: 20px;
   padding: 10px;
   text-align: center;
 }
@@ -55,6 +54,7 @@ p {
 .Harvest {
   background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
+  margin-top: -50px;
   padding: 40px 20px;
 }
 
@@ -64,16 +64,20 @@ p {
 
 .Header {
   display: flex;
-  padding: 10px 0;
+  padding: 10px;
   width: 100%;
 }
 
 .Menu {
+  background-color: seagreen;
   float: right;
   width: 30%;
 }
 
 .Product {
+  border: 1px solid sandybrown;
+  border-radius: 25px;
+  margin: 20px;
   padding: 40px 20px;
   text-align: center;
 }
@@ -90,6 +94,7 @@ p {
 }
 
 .Title {
+  background-color: sandybrown;  
   float: left;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   width: 70%;
