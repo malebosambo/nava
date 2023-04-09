@@ -8,7 +8,7 @@ function App() {
           <h5>Navah Harvest & Health</h5>
         </div>
         <div className="Menu">
-          <p>Menu</p>
+          <h5>Menu</h5>
         </div>
       </div>
       <div className="Main_Content">
