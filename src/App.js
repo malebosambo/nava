@@ -4,7 +4,12 @@ function App() {
   return (
     <div className="App">
       <div className="Header">
-        <h3>Navah Harvest & Health</h3>
+        <div className="Title">
+          <h5>Navah Harvest & Health</h5>
+        </div>
+        <div className="Menu">
+          <p>Menu</p>
+        </div>
       </div>
       <div className="Main_Content">
         <div className="Harvest">
@@ -33,7 +38,7 @@ function App() {
           <input type="submit" value="Get Recipe" />
         </div>
         <div className="Contact">
-          <h2>Contact Us</h2>
+          <h1>Contact Us</h1>
           <p>Cell: <a href="tel:+27670537445">+27670537445</a></p>
           <p>E-mail: <a href="mailto:manyeletis@gmail.com">manyeletis@gmail.com</a></p>
           <p>Address: 462 Cuba Crescent, Lulekani, 1392</p>
