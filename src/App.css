@@ -24,7 +24,7 @@ input {
 
 p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 2px;
+  line-height: 10px;
 }
 
 .Bold {
@@ -73,8 +73,11 @@ p {
 
 .Menu {
   background-color: seagreen;
+  border: 1px solid seagreen;
   border-radius: 25px;
+  color: white;
   float: right;
+  margin: 10px;
   text-align: center;
   width: 30%;
 }
@@ -99,8 +102,10 @@ p {
 }
 
 .Title {
-  background-color: sandybrown;  
+  background-color: sandybrown;
+  color: white;
   float: left;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-left: 10px;
   width: 70%;
 }
