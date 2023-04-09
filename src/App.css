@@ -24,7 +24,7 @@ input {
 
 p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 20px;
+  line-height: 30px;
 }
 
 .Bold {
@@ -54,7 +54,7 @@ p {
 .Harvest {
   background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
-  margin-top: -50px;
+  margin-top: -100px;
   padding: 40px 20px;
 }
 
@@ -79,7 +79,7 @@ p {
 
 .Menu {
   background-color: seagreen;
-  border: 1px solid sandybrown;
+  border: 1px solid seagreen;
   border-radius: 25px;
   color: white;
   float: right;

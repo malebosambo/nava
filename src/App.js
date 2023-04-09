@@ -29,10 +29,10 @@ function App() {
         <div className="Health">
           <h1>Healthy Living</h1>
           <p>Use our health products to help you enjoy life more and make you worry less about visits to the doctor.</p>
-          <div className="Health_Item"><img src="/public/brain.png" alt="brain wellness"/><p>Brain Wellness</p></div>
-          <div className="Health_Item"><img src="/public/heart.png" alt="heart wellness"/><p>Heart Wellness</p></div>
-          <div className="Health_Item"><img src="/public/kidney.png" alt="kidney wellness"/><p>Kidney Wellness</p></div>
-          <div className="Health_Item"><img src="/public/intestine.png" alt="intestine wellness"/><p>Intestine Wellness</p></div>
+          <div className="Health_Item"><img src="./brain.png" alt="brain wellness"/><p>Brain Wellness</p></div>
+          <div className="Health_Item"><img src="./heart.png" alt="heart wellness"/><p>Heart Wellness</p></div>
+          <div className="Health_Item"><img src="./kidney.png" alt="kidney wellness"/><p>Kidney Wellness</p></div>
+          <div className="Health_Item"><img src="./intestine.png" alt="intestine wellness"/><p>Intestine Wellness</p></div>
         </div>
         <div className="Recipe">
           <h1>Weekly Recipe</h1>
