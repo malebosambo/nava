@@ -26,6 +26,7 @@ function App() {
           <p>We use sustainability farming methodology to make a positive contribution to the environment.</p>
           <p className="Border"><a href="https://sdgs.un.org/goals">Learn about SDGs</a></p>
         </div>
+        <div><img src="./health.jpg" alt="health products"/></div>
         <div className="Health">
           <h1>Healthy Living</h1>
           <p>Use our health products to help you enjoy life more and make you worry less about visits to the doctor.</p>

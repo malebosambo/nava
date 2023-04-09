@@ -55,7 +55,7 @@ p {
   background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
   margin-top: -100px;
-  padding: 40px 20px;
+  padding: 70px 20px;
 }
 
 .Health {
@@ -78,9 +78,6 @@ p {
 }
 
 .Menu {
-  background-color: seagreen;
-  border: 1px solid seagreen;
-  border-radius: 25px;
   color: white;
   float: right;
   text-align: center;
