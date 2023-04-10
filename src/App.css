@@ -55,7 +55,7 @@ p {
   background-image: url(/public/veggie-harvest_1.jpg);
   color: white;
   margin-top: -100px;
-  padding: 90px 20px;
+  padding: 100px 20px;
 }
 
 .Health {
@@ -92,13 +92,12 @@ p {
   border: 1px solid seagreen;
   border-radius: 25px;
   margin: 20px;
-  padding: 30px 20px;
+  padding: 20px 20px;
   text-align: center;
 }
 
 .Recipe {
-  padding: 40px 0;
-  text-align: center;
+  padding: 40px 10;
 }
 
 .Sustainable {

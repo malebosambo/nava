@@ -36,10 +36,10 @@ function App() {
           <div className="Health_Item"><img src="./intestine.png" alt="intestine wellness"/><p>Intestine Wellness</p></div>
         </div>
         <div className="Recipe">
-          <h1>Weekly Recipe</h1>
+          <h3>Weekly Recipe</h3>
           <hr />
-          <h2>Matso-based Pizza</h2>
           <img src="./pizza.jpeg" alt="vegan pizza" />
+          <h2>Matso Base Vegan Pizza</h2>
           <input type="submit" value="Get Recipe" />
         </div>
         <div className="Contact">
