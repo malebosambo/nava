@@ -1,15 +1,11 @@
+import Navbar from './components/navbar';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <div className="Header">
-        <div className="Title">
-          <h5>Navah Harvest & Health</h5>
-        </div>
-        <div className="Menu">
-          <h5>Menu</h5>
-        </div>
+      <div>
+        <Navbar />
       </div>
       <div className="Main_Content">
         <div className="Harvest">

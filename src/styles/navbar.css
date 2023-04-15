@@ -1,0 +1,95 @@
+.Navigation {
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 2px 2px 2px lightgrey;
+  color: black;
+  display: flex;
+  height: 60px;
+  padding: 1px 0;
+  position: relative;
+  width: 100%;
+}
+
+.Logo {
+  color: black;
+  font-size: 5px;
+  margin-left: 2px;
+  text-decoration: none;
+}
+
+.Navigation-Menu {
+  margin-left: auto;
+}
+
+.Navigation-Menu ul {
+  display: flex;
+  padding: 0;
+}
+
+.Navigation-Menu li {
+  list-style-type: none;
+  margin: 0 1px;
+}
+
+.Navigation-Menu li a {
+  display: block;
+  text-decoration: none;
+  width: 100%;
+}
+
+.Menu {
+  background-color: sandybrown;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: none;
+  height: 40px;
+  padding: 1px;
+  position: absolute;
+  right: 25px;
+  top: 50%;
+  transition: background-color 0.2s ease-in-out;
+  transform: translateY(-50%);
+  width: 40px;
+}
+
+.Menu:hover {
+  background-color: seagreen;
+}
+
+@media screen and (max-width: 768px;) {
+  .Menu {
+  display: block;
+  }
+  
+  .Navigation-Menu ul {
+    background-color: white;
+    border-top: 1px solid black;
+    display: none;
+    flex-direction: column;
+    height: calc(100vh - 77px);
+    left: 0;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+  }
+  
+  .Navigation-Menu li {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .Navigation-Menu li a {
+    color: black;
+    padding: 1px 0;
+    width: 100%;
+  }
+  
+  .Navigation-Menu li:hover {
+    background-color: lightgrey;
+  }
+  
+  .Navigation-Menu.Expanded ul {
+    display: block;
+  }
+}
