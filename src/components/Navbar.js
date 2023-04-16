@@ -1,3 +1,4 @@
+import React from 'React';
 import { useState } from 'React';
 import '../styles/navbar.css';
 
