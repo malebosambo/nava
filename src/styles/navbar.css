@@ -57,7 +57,7 @@
   background-color: seagreen;
 }
 
-@media screen and (max-width: 768px;) {
+@media screen and (max-width: 768px) {
   .Menu {
   display: block;
   }

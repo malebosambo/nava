@@ -72,11 +72,6 @@ p {
   width: 50px;
 }
 
-.Header {
-  display: flex;
-  width: 100%;
-}
-
 .Main_Content {
   width: 100%;
 }
